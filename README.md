@@ -29,6 +29,5 @@ The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) 
 
 ### Data Sources
 | Inequality-Adjusted Human Development Index (IHDI) | “Source: UNDP (United Nations Development Programme). 2022. Human Development Report 2021/2022: Uncertain Times, Unsettled Lives: Shaping our Future in a Transforming World. New York.” |
-| Carbon Emissions Data | [Our World in Data](https://github.com/owid/co2-data)
-
+| Carbon Emissions Data | [Our World in Data](https://github.com/owid/co2-data) |
 
