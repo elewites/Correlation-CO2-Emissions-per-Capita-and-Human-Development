@@ -5,7 +5,7 @@ This study aimed to examine the correlation between CO2 emissions per capita and
 
 ## The Data
 
-This repository contains 6 data files. 
+This repository contains 6 data files in content folder.
 1. `co2_vs_ihdi_data_compiled_final.xlsx` has all the compiled data, data subsets, codebook, sources and raw data.
 2. `all_countries.csv` contains data for all countries
 3. `very_high_ihdi.csv` contains data for countries with Very High IHDI
@@ -13,7 +13,7 @@ This repository contains 6 data files.
 5. `medium_ihdi.csv` contains data for countries with Medium IHDI
 6. `low_ihdi.csv` contains data for countries Low IHDI
 
-The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) are utilized in python script. 
+The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) are utilized in .ipynb file. 
 
 ### Codebook 
 
