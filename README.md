@@ -27,4 +27,8 @@ The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) 
 |        global_north     |     1 = country forms part of global north, 0 = country does not form part of global north        |
 | annual_co2_per_capita | Annual total production-based emissions of carbon dioxide (CO₂), excluding land-use change, measured in tonnes per person. This is based on territorial emissions, which do not account for emissions embedded in traded goods.        |
 
+### Data Sources
+| Inequality-Adjusted Human Development Index (IHDI) | “Source: UNDP (United Nations Development Programme). 2022. Human Development Report 2021/2022: Uncertain Times, Unsettled Lives: Shaping our Future in a Transforming World. New York.” |
+| Carbon Emissions Data | [Our World in Data](https://github.com/owid/co2-data)
+
 
