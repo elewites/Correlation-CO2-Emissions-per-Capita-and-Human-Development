@@ -13,7 +13,7 @@ This repository contains 6 data files in content folder.
 5. `medium_ihdi.csv` contains data for countries with Medium IHDI
 6. `low_ihdi.csv` contains data for countries Low IHDI
 
-The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) are utilized in .ipynb file. 
+The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) are utilized in `correlation_results_CO2_IHDI.ipynb file.` 
 
 ### Codebook 
 
