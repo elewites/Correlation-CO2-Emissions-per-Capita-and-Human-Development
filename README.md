@@ -17,7 +17,7 @@ The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) 
 
 ### Codebook 
 
-| Column      | Description |
+| Variable      | Description |
 | ----------- | ----------- |
 | country      | country       |
 | year   | year data was collected        |
@@ -28,6 +28,7 @@ The data was seperated into subsets to faciliate analysis. CSV Files (2) to (6) 
 | annual_co2_per_capita | Annual total production-based emissions of carbon dioxide (CO₂), excluding land-use change, measured in tonnes per person. This is based on territorial emissions, which do not account for emissions embedded in traded goods.        |
 
 ### Data Sources
+| Data| Source|
 | Inequality-Adjusted Human Development Index (IHDI) | “Source: UNDP (United Nations Development Programme). 2022. Human Development Report 2021/2022: Uncertain Times, Unsettled Lives: Shaping our Future in a Transforming World. New York.” |
 | Carbon Emissions Data | [Our World in Data](https://github.com/owid/co2-data) |
 
