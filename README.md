@@ -5,7 +5,7 @@ This study sought to explore the connection between CO2 emissions per capita and
 
 Checkout [paper.pdf](https://github.com/elewites/Correlation-CO2-Emissions-per-Capita-and-Human-Development/blob/main/Paper.pdf) for full paper.
 
-Data notebook:[correlation_results_CO2_IHDI.ipynb file](https://github.com/elewites/Correlation-CO2-Emissions-per-Capita-and-Human-Development/blob/main/correlation_results_CO2_IHDI.ipynb)
+Data notebook: [correlation_results_CO2_IHDI.ipynb file](https://github.com/elewites/Correlation-CO2-Emissions-per-Capita-and-Human-Development/blob/main/correlation_results_CO2_IHDI.ipynb)
 
 ## The Data
 
