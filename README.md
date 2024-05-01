@@ -4,6 +4,7 @@
 This study sought to explore the connection between CO2 emissions per capita and the Inequality-Adjusted Human Development Index (IHDI) across 154 countries, focusing particularly on whether this correlation differed in developing countries. Employing Pearson's correlation test, the study examined the relationship between these variables, categorizing the data into four subsets based on countries' development status: Very High IHDI (>= 0.80), High IHDI (0.70 to 0.79), Medium IHDI (0.55 to 0.69), and Low IHDI (< 0.50). The findings revealed a significant positive correlation globally, with a particularly robust correlation observed in developing nations. However, intriguingly, potentially negative correlations surfaced in countries boasting very high development. These insights offer valuable guidance for stakeholders striving for a sustainable future.
 
 Checkout [paper.pdf](https://github.com/elewites/Correlation-CO2-Emissions-per-Capita-and-Human-Development/blob/main/Paper.pdf) for full paper.
+
 [Data notebook](https://github.com/elewites/Correlation-CO2-Emissions-per-Capita-and-Human-Development/blob/main/correlation_results_CO2_IHDI.ipynb)
 
 ## The Data
