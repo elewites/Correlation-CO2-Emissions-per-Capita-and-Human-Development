@@ -1,9 +1,10 @@
 # Correlation-CO2-Emissions-per-Capita-and-Human-Development
 
 ## Abstract
-This study aimed to examine the correlation between CO2 emissions per capita and the Inequality-Adjusted Human Development Index (IHDI) across 154 countries, with a focus on determining whether the correlation was stronger in developing countries. The study utilized Pearson's correlation test to investigate the relationship between these variables, and the data was divided into four subsets based on the countries' development status: Very High IHDI (>= 0.80), High IHDI (0.70 to 0.79), Medium IHDI (0.55 to 0.69), and Low IHDI (< 0.50). The study found a significant positive correlation globally, with a stronger correlation in developing countries. However, a potentially negative correlation was observed in countries with very high development. These findings offer valuable insights for stakeholders working towards a sustainable future.
+This study sought to explore the connection between CO2 emissions per capita and the Inequality-Adjusted Human Development Index (IHDI) across 154 countries, focusing particularly on whether this correlation differed in developing countries. Employing Pearson's correlation test, the study examined the relationship between these variables, categorizing the data into four subsets based on countries' development status: Very High IHDI (>= 0.80), High IHDI (0.70 to 0.79), Medium IHDI (0.55 to 0.69), and Low IHDI (< 0.50). The findings revealed a significant positive correlation globally, with a particularly robust correlation observed in developing nations. However, intriguingly, potentially negative correlations surfaced in countries boasting very high development. These insights offer valuable guidance for stakeholders striving for a sustainable future.
 
 Checkout [paper.pdf](https://github.com/elewites/Correlation-CO2-Emissions-per-Capita-and-Human-Development/blob/main/Paper.pdf) for full paper.
+[Data notebook](https://github.com/elewites/Correlation-CO2-Emissions-per-Capita-and-Human-Development/blob/main/correlation_results_CO2_IHDI.ipynb)
 
 ## The Data
 
